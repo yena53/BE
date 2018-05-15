@@ -1,1 +1,3 @@
-# for sharing works
+# Good luck >..<
+
+for sharing our workprocess
