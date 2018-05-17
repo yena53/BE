@@ -110,3 +110,6 @@ testLabel = np.expand_dims(np.asarray(testLabel),axis=1)
 
 trainData = np.concatenate((trainSpec,trainLabel), axis=1)
 testData = np.concatenate((testSpec,testLabel), axis=1)
+
+np.save('traindata.npy',trainData)
+np.save('testdata.npy',testData)
